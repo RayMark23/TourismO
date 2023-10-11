@@ -7,7 +7,7 @@
     orange,
     rgb(192, 160, 99)
   ) !important;
-  font-family: Georgia, 'Times New Roman', Times, serif !important;
+  font-family: Georgia, "Times New Roman", Times, serif !important;
 }
 .navbar-myedit {
   background-image: linear-gradient(
@@ -20,6 +20,6 @@
   ) !important;
 }
 
-.my-footer{
+.my-footer {
   margin: 0;
 }
