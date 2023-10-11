@@ -12,6 +12,10 @@ h6 {
   font-weight: 700;
 }
 
+.overlay-content {
+  transform: translateX(0vmin) !important;
+}
+
 .fancyTab {
   text-align: center;
   padding: 15px 0;
