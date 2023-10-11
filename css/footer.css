@@ -124,6 +124,12 @@ body {
   animation: animate 3s linear infinite;
 }
 
+@media (max-width: 412px){
+  p.dtext{
+    font-size: small;
+  }
+}
+
 @keyframes animateWaves {
   0% {
     background-position-x: 1000px;
