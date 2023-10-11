@@ -1,0 +1,25 @@
+.my-navbar {
+  background-image: linear-gradient(
+    to right,
+    rgb(192, 160, 99),
+    orange,
+    rgb(141, 92, 0),
+    orange,
+    rgb(192, 160, 99)
+  ) !important;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+.navbar-myedit {
+  background-image: linear-gradient(
+    to right,
+    rgb(145, 95, 1),
+    orange,
+    rgb(192, 160, 99),
+    orange,
+    rgb(141, 92, 0)
+  ) !important;
+}
+
+.my-footer{
+  margin: 0;
+}
