@@ -12,7 +12,7 @@ h6 {
   font-weight: 700;
 }
 
-.overlay-content {
+.my-overlay {
   transform: translateX(0vmin) !important;
 }
 
