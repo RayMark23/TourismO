@@ -4,10 +4,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
 }
 
 .footer {
+  font-family: "Poppins", sans-serif;
   position: relative;
   width: 100%;
   background: #1f6cca;
@@ -107,7 +107,7 @@
 
 @media (max-width: 412px) {
   p.dtext {
-    font-size: small;
+    font-size: x-small !important;
   }
 }
 

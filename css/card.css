@@ -23,7 +23,7 @@ body {
 .link-design {
   color: orange;
   text-decoration: none;
-  font-family: cursive;
+  font-family: cursive !important;
   font-size: 50px;
   text-shadow: 10px 10px 10px #b8b821;
 }
