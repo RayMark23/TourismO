@@ -7,25 +7,6 @@
   font-family: "Poppins", sans-serif;
 }
 
-body {
-  display: flex;
-  margin: 0 auto;
-  border-image: linear-gradient(
-      -50deg,
-      green,
-      #00b300,
-      forestgreen,
-      green,
-      lightgreen,
-      #00e600,
-      green
-    )
-    1;
-  justify-content: flex-end;
-  align-items: flex-end;
-  min-height: 100vh;
-}
-
 .footer {
   position: relative;
   width: 100%;

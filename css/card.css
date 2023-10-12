@@ -1,8 +1,4 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
+
 body {
   background: linear-gradient(
     to right,
@@ -13,42 +9,6 @@ body {
     #008000
   );
   font-family: "Martel Sans", sans-serif;
-}
-.my-footer {
-  padding: 0 !important;
-}
-.my-card-container {
-  max-height: 100vh;
-  display: grid;
-  place-items: start;
-  margin: 0;
-  padding: 0;
-  background: linear-gradient(
-    to right,
-    #008000,
-    #00e600,
-    #b3ffb3,
-    #00e600,
-    #008000
-  );
-  font-family: "Martel Sans", sans-serif;
-  border-radius: 10px;
-}
-.my-tab-container {
-  padding: 20;
-}
-.my-tab {
-  height: 200px;
-}
-@media screen and (max-width: 768px) {
-  .my-tab-container {
-    padding: 0 !important;
-  }
-}
-@media screen and (max-width: 768px) {
-  .my-tab {
-    height: 80px !important;
-  }
 }
 
 @media screen and (max-width: 768px) {
