@@ -19,7 +19,7 @@ h1.d-header {
   height: 200px;
   background-color: rgb(53, 57, 56);
   display: grid;
-  grid-template-columns: repeat(2, 30% 69%);
+  grid-template-columns: repeat(2, 25% 74%);
   gap: 2px;
 }
 
@@ -48,7 +48,7 @@ img {
 }
 p.details {
   grid-template-rows: auto auto auto;
-  background-color: blueviolet;
+  background-color: rgb(72, 121, 128);
   margin: 0;
   border-radius: 10px;
   color: azure;
@@ -61,4 +61,13 @@ p.details {
   .card-container {
     grid-template-columns: 1fr;
   }
+}
+
+p > a{
+  text-decoration: none;
+ color:brown;
+}
+
+a:hover{
+  color: green;
 }
