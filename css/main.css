@@ -11,6 +11,7 @@ body {
 
 .my-footer {
   padding: 0 !important;
+  margin-bottom: 100px;
 }
 .about-frame-footer {
   position: absolute;
@@ -52,5 +53,11 @@ body {
 @media screen and (max-width: 768px) {
   .my-tab {
     height: 80px !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .my-footer {
+   margin-bottom: 50px;
   }
 }
